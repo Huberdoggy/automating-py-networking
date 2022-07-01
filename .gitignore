@@ -1,0 +1,5 @@
+.idea*
+# No need to track my output files
+*.txt
+# But include Pip deps
+!requirements.txt
